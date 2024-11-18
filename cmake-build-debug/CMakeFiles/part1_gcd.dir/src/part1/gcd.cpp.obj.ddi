@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\part1_gcd.dir\\src\\part1\\gcd.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ADMIN\\CLionProjects\\DSA\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\part1_gcd.dir\\src\\part1\\gcd.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

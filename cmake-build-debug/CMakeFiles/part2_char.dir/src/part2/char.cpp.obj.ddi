@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\part2_char.dir\\src\\part2\\char.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ADMIN\\CLionProjects\\DSA\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\part2_char.dir\\src\\part2\\char.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

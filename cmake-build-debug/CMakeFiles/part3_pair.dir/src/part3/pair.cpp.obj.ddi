@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\part3_pair.dir\\src\\part3\\pair.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ADMIN\\CLionProjects\\DSA\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\part3_pair.dir\\src\\part3\\pair.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

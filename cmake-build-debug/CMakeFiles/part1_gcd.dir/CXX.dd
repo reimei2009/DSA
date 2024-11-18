@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\part1_gcd.dir\src\part1\gcd.cpp.obj: dyndep
+

@@ -1,0 +1,29 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/ADMIN/CLionProjects/DSA/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/ADMIN/CLionProjects/DSA",
+	"dir-top-bld" : "C:/Users/ADMIN/CLionProjects/DSA/cmake-build-debug",
+	"dir-top-src" : "C:/Users/ADMIN/CLionProjects/DSA",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\part1",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\ex_part1",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\part2",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\ex_part2",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\part3",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\ex_part3",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\part4",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\part5\\sort",
+		"C:\\Users\\ADMIN\\CLionProjects\\DSA\\include\\part5\\searching"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/ADMIN/CLionProjects/DSA/cmake-build-debug/CMakeFiles/ex_part2_ex6_10.dir"
+}

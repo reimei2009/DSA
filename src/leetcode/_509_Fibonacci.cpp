@@ -1,0 +1,16 @@
+//
+// Created by ADMIN on 11/18/2024.
+//
+
+class Solution {
+public:
+    int fib(int n) {
+        if (n==0){
+            return 0;
+        }
+        if (n==1) {
+            return 1;
+        }
+        return fib(n - 2) + fib(n-1);
+    }
+};

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\ex_part2_ex1.dir\\src\\ex_part2\\ex1_5.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ADMIN\\CLionProjects\\DSA\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\ex_part2_ex1.dir\\src\\ex_part2\\ex1_5.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
